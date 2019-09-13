@@ -4,10 +4,7 @@ export default function About() {
       <p>This is the about page</p>
     </div>
     <div>
-      <p>This is the about home</p>
-    </div>
-    <div>
-      <p>This is the about about</p>
+      <p>what do you do</p>
     </div>
   );
 }
