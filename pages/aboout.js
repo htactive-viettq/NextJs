@@ -3,11 +3,6 @@ export default function About() {
     <div>
       <p>This is the about page</p>
     </div>
-    <div>
-      <p>This is the about home</p>
-    </div>
-    <div>
-      <p>This is the about about</p>
-    </div>
+    <h1>My Name is viet</h1>
   );
 }
